@@ -1,3 +1,4 @@
+# 九九乘法
 # yield的用法
 def table_9_9(max=9):
     n=1
